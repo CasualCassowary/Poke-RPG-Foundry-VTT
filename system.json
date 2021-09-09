@@ -13,12 +13,14 @@
   {
 	  "name": "pokemon",
 	  "label": "Pokemon",
+	  "system": "pokerpg",
 	  "path": "packs/pokemon.db",
 	  "entity": "Actor"
   },
   {
 	  "name": "items",
 	  "label": "Items",
+	  "system": "pokerpg",
 	  "path": "packs/items.db",
 	  "entity": "Item"
   }
@@ -33,8 +35,6 @@
   "socket": false,
   "gridDistance": 5,
   "gridUnits": "ft",
-  "primaryTokenAttribute": "attributes.hp",
-  "secondaryTokenAttribute": null,
   "url": "https://github.com/CasualCassowary/Poke-RPG-Foundry-VTT",
   "manifest": "https://github.com/CasualCassowary/Poke-RPG-Foundry-VTT/pokerpg.json",
   "download": "https://github.com/CasualCassowary/Poke-RPG-Foundry-VTT/archive/refs/heads/main.zip"
