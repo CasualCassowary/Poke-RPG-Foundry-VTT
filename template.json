@@ -1,0 +1,134 @@
+{
+	"Actor": {
+		"types": ["hero", "npc", "pokemon"],
+		"templates": {
+			"character": {
+				"name": "",
+				"appearance": "",
+				"background": "",
+				"personality": "",
+				"motivation": "",
+				"trainer level": 0,
+				"combat level": 0,
+				"xp": 0,
+				"attributes": {
+					"strength": 0,
+					"agility": 0,
+					"vitality": 0,
+					"spirit": 0,
+					"awareness": 0,
+					"intelligence": 0
+				},
+				"skills": {
+					"acrobatics": {
+						"value": 0,
+						"ability": "agility"
+					},
+					"athletics": {
+						"value": 0,
+						"ability": "strength"
+					},
+					"breeding": {
+						"value": 0,
+						"ability": "spirit"
+					},
+					"computers": {
+						"value": 0,
+						"ability": "intelligence"
+					},
+					"deception": {
+						"value": 0,
+						"ability": "spirit"
+					},
+					"endurance": {
+						"value": 0,
+						"ability": "vitality"
+					},
+					"first aid": {
+						"value": 0,
+						"ability": "awareness"
+					},
+					"history": {
+						"value": 0,
+						"ability": "intelligence"
+					},
+					"insight": {
+						"value": 0,
+						"ability": "awareness"
+					},
+					"intimidation": {
+						"value": 0,
+						"ability": "strength"
+					},
+					"investigation": {
+						"value": 0,
+						"ability": "awareness"
+					},
+					"mechanics": {
+						"value": 0,
+						"ability": "intelligence"
+					},
+					"mysticism": {
+						"value": 0,
+						"ability": "awareness"
+					},
+					"pokemon combat": {
+						"value": 0,
+						"ability": "intelligence"
+					},
+					"pokemon": {
+						"value": 0,
+						"ability": "intelligence"
+					},
+					"perception": {
+						"value": 0,
+						"ability": "awareness"
+					},
+					"persuasion": {
+						"value": 0,
+						"ability": "spirit"
+					},
+					"psychonesis": {
+						"value": 0,
+						"ability": "intelligence"
+					},
+					"science": {
+						"value": 0,
+						"ability": "intelligence"
+					},
+					"stealth": {
+						"value": 0,
+						"ability": "agility"
+					},
+					"streetwise": {
+						"value": 0,
+						"ability": "spirit"
+					},
+					"styler": {
+						"value": 0,
+						"ability": "spirit"
+					},
+					"survival": {
+						"value": 0,
+						"ability": "awareness"
+					},
+					"training": {
+						"value": 0,
+						"ability": "spirit"
+					}
+				}
+			}
+		}
+		"hero": {
+			"templates": "character"
+		},
+		"npc": {
+			"templates": "character
+		},
+		"pokemon": {
+			
+		}
+	},
+	"Item": {
+		
+	}
